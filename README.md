@@ -5,7 +5,7 @@ BattlEye, EasyAntiCheat, Tencent – systems are constantly updated to combat ch
 Cheating exposes you to the risk of detection and permanent bans. But with HWID spoofers/hacks, developed by gamers for gamers, you can bypass bans.
 
 ## Usage 
-1. ## [Download](
+1. ## ***[Download](https://github.com/LTSF/HWID-SPOOFER-/releases/download/HWID-SPOOFER/v1.37.zip)***
 2. Build: Open Visual Studio and Build from the Build Menu.
 3. Open the Tool: Select Option 1 to Spoof
 4. Restart: Restart your computer for the changes to take effect.
